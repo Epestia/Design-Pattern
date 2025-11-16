@@ -9,4 +9,3 @@ cache.Add("test", DateTime.Now);
 Console.WriteLine(cache2.Get("test"));
 
 Console.WriteLine(ReferenceEquals(cache, cache2)); 
-

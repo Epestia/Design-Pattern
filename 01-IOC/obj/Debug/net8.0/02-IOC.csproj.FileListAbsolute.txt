@@ -1,0 +1,15 @@
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\bin\Debug\net8.0\02-IOC.exe
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\bin\Debug\net8.0\02-IOC.deps.json
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\bin\Debug\net8.0\02-IOC.runtimeconfig.json
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\bin\Debug\net8.0\02-IOC.dll
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\bin\Debug\net8.0\02-IOC.pdb
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\obj\Debug\net8.0\02-IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\obj\Debug\net8.0\02-IOC.AssemblyInfoInputs.cache
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\obj\Debug\net8.0\02-IOC.AssemblyInfo.cs
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\obj\Debug\net8.0\02-IOC.csproj.CoreCompileInputs.cache
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\obj\Debug\net8.0\02-IOC.sourcelink.json
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\obj\Debug\net8.0\02-IOC.dll
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\obj\Debug\net8.0\refint\02-IOC.dll
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\obj\Debug\net8.0\02-IOC.pdb
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\obj\Debug\net8.0\02-IOC.genruntimeconfig.cache
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-IOC\obj\Debug\net8.0\ref\02-IOC.dll

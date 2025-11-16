@@ -12,3 +12,4 @@ C:\Users\Epestia\Desktop\DotNet\Design pattern\01-Singleton\obj\Debug\net8.0\ref
 C:\Users\Epestia\Desktop\DotNet\Design pattern\01-Singleton\obj\Debug\net8.0\01-Singleton.pdb
 C:\Users\Epestia\Desktop\DotNet\Design pattern\01-Singleton\obj\Debug\net8.0\01-Singleton.genruntimeconfig.cache
 C:\Users\Epestia\Desktop\DotNet\Design pattern\01-Singleton\obj\Debug\net8.0\ref\01-Singleton.dll
+C:\Users\Epestia\Desktop\DotNet\Design pattern\01-Singleton\obj\Debug\net8.0\01-Singleton.sourcelink.json

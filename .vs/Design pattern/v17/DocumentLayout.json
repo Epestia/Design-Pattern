@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2B1E9DC-3979-4009-8AD7-227FC0CF5343}|01-Singleton\\01-Singleton.csproj|c:\\users\\epestia\\desktop\\dotnet\\design pattern\\01-singleton\\memorycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2B1E9DC-3979-4009-8AD7-227FC0CF5343}|01-Singleton\\01-Singleton.csproj|solutionrelative:01-singleton\\memorycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E4EA894-B8BA-4A36-BD26-7A0FFD8AAACF}|01-IOC\\01-IOC.csproj|c:\\users\\epestia\\desktop\\dotnet\\design pattern\\01-ioc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4EA894-B8BA-4A36-BD26-7A0FFD8AAACF}|01-IOC\\01-IOC.csproj|solutionrelative:01-ioc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4EA894-B8BA-4A36-BD26-7A0FFD8AAACF}|01-IOC\\02-IOC.csproj|c:\\users\\epestia\\desktop\\dotnet\\design pattern\\01-ioc\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4EA894-B8BA-4A36-BD26-7A0FFD8AAACF}|01-IOC\\02-IOC.csproj|solutionrelative:01-ioc\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4EA894-B8BA-4A36-BD26-7A0FFD8AAACF}|01-IOC\\02-IOC.csproj|c:\\users\\epestia\\desktop\\dotnet\\design pattern\\01-ioc\\service\\iservice\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4EA894-B8BA-4A36-BD26-7A0FFD8AAACF}|01-IOC\\02-IOC.csproj|solutionrelative:01-ioc\\service\\iservice\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4EA894-B8BA-4A36-BD26-7A0FFD8AAACF}|01-IOC\\02-IOC.csproj|c:\\users\\epestia\\desktop\\dotnet\\design pattern\\01-ioc\\service\\servicea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4EA894-B8BA-4A36-BD26-7A0FFD8AAACF}|01-IOC\\02-IOC.csproj|solutionrelative:01-ioc\\service\\servicea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4EA894-B8BA-4A36-BD26-7A0FFD8AAACF}|01-IOC\\02-IOC.csproj|c:\\users\\epestia\\desktop\\dotnet\\design pattern\\01-ioc\\02-ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E4EA894-B8BA-4A36-BD26-7A0FFD8AAACF}|01-IOC\\02-IOC.csproj|solutionrelative:01-ioc\\02-ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2B1E9DC-3979-4009-8AD7-227FC0CF5343}|01-Singleton\\01-Singleton.csproj|c:\\users\\epestia\\desktop\\dotnet\\design pattern\\01-singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2B1E9DC-3979-4009-8AD7-227FC0CF5343}|01-Singleton\\01-Singleton.csproj|solutionrelative:01-singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1E9DC-3979-4009-8AD7-227FC0CF5343}|01-Singleton\\01-Singleton.csproj|c:\\users\\epestia\\desktop\\dotnet\\design pattern\\01-singleton\\memorycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B1E9DC-3979-4009-8AD7-227FC0CF5343}|01-Singleton\\01-Singleton.csproj|solutionrelative:01-singleton\\memorycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4EA894-B8BA-4A36-BD26-7A0FFD8AAACF}|01-IOC\\02-IOC.csproj|c:\\users\\epestia\\desktop\\dotnet\\design pattern\\01-ioc\\02-ioc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8E4EA894-B8BA-4A36-BD26-7A0FFD8AAACF}|01-IOC\\02-IOC.csproj|solutionrelative:01-ioc\\02-ioc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +42,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-IOC\\Container.cs",
+              "RelativeDocumentMoniker": "01-IOC\\Container.cs",
+              "ToolTip": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-IOC\\Container.cs",
+              "RelativeToolTip": "01-IOC\\Container.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:39:43.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceA.cs",
+              "DocumentMoniker": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-IOC\\Service\\ServiceA.cs",
+              "RelativeDocumentMoniker": "01-IOC\\Service\\ServiceA.cs",
+              "ToolTip": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-IOC\\Service\\ServiceA.cs",
+              "RelativeToolTip": "01-IOC\\Service\\ServiceA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:38:33.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-IOC\\Service\\IService\\IService.cs",
+              "RelativeDocumentMoniker": "01-IOC\\Service\\IService\\IService.cs",
+              "ToolTip": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-IOC\\Service\\IService\\IService.cs",
+              "RelativeToolTip": "01-IOC\\Service\\IService\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:37:59.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "02-IOC",
+              "DocumentMoniker": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-IOC\\02-IOC.csproj",
+              "RelativeDocumentMoniker": "01-IOC\\02-IOC.csproj",
+              "ToolTip": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-IOC\\02-IOC.csproj",
+              "RelativeToolTip": "01-IOC\\02-IOC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T00:35:37.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "01-IOC",
+              "DocumentMoniker": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-IOC\\02-IOC.csproj",
+              "RelativeDocumentMoniker": "01-IOC\\02-IOC.csproj",
+              "ToolTip": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-IOC\\02-IOC.csproj",
+              "RelativeToolTip": "01-IOC\\02-IOC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T00:35:20.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-IOC\\Program.cs",
+              "RelativeDocumentMoniker": "01-IOC\\Program.cs",
+              "ToolTip": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-IOC\\Program.cs",
+              "RelativeToolTip": "01-IOC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:35:15.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MemoryCache.cs",
               "DocumentMoniker": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-Singleton\\MemoryCache.cs",
               "RelativeDocumentMoniker": "01-Singleton\\MemoryCache.cs",
               "ToolTip": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-Singleton\\MemoryCache.cs",
               "RelativeToolTip": "01-Singleton\\MemoryCache.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T00:01:44.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-Singleton\\Program.cs",
               "RelativeDocumentMoniker": "01-Singleton\\Program.cs",
               "ToolTip": "C:\\Users\\Epestia\\Desktop\\DotNet\\Design pattern\\01-Singleton\\Program.cs",
               "RelativeToolTip": "01-Singleton\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T23:59:13.671Z",
               "EditorCaption": ""

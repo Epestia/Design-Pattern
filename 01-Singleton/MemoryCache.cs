@@ -1,25 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Collections.Concurrent;
 
 namespace _01_Singleton
 {
     public sealed class MemoryCache
     {
-        private Dictionary<string, object> _cacheObjects;
-        public static Lazy<MemoryCache> _cache { get; } = new (() => new());
-        public static MemoryCache Instance  => _cache.Value;
-        private MemoryCache() {
-            _cacheObjects = new();
-        }
-        public void Add(string key, object value) => _cacheObjects[key] = value;
+        private readonly ConcurrentDictionary<string, object> _cache
+            = new ConcurrentDictionary<string, object>();
 
-        public object? Get(string Key)
+        private static readonly Lazy<MemoryCache> _instance =
+            new Lazy<MemoryCache>(() => new MemoryCache());
+
+        public static MemoryCache Instance => _instance.Value;
+
+        private MemoryCache() { }
+
+        public void Add(string key, object value)
         {
-           if(_cacheObjects.ContainsKey(Key)) return _cacheObjects[Key];
-            return null;
+            _cache[key] = value;
+        }
+
+        public object? Get(string key)
+        {
+            _cache.TryGetValue(key, out var value);
+            return value;
         }
     }
 }
